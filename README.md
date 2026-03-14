@@ -29,7 +29,7 @@ To buy this PCB you can either download the gerber files and by where you want o
 
 ## BOM
 
-[BOM](IMG/ibom.html)
+[BOM](BOM/ibom.html)
 
 ## Disclaimer
 
