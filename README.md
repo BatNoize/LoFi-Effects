@@ -1,18 +1,19 @@
 # LoFi Effects
-This Project is based on a cheap DSP Multi Effect module.
+This Project is based on a cheap DSP Multi Effect module
 - For the usage you find example at HAGIWOs Video 
   - https://youtu.be/Vsx6v7v1p2I
-  - Please support his work.
+  - Please support his work
 
-- I've choosen a very low cost design.
-  - Only one PCB with some SMD components 
+- I've choosen a very low cost design
+  - Only one PCB with some SMD components
+  - DSP multi effect module see below
 
 
 ## Discount & Support European PCB Manufacturing
 
 If you'd like to support this project and a European PCB manufacturer, use code **MakeInEurope-ZFYQY** at checkout for **€10** off your first **Aisler** order.
 
-To buy this PCB you can either download the gerber files and by where you want or use this link to by at [aisler.net/p/XYSKKRYT](aisler.net/p/XYSKKRYT)
+To buy this PCB you can either download the gerber files and by where you want or use this [link](aisler.net/p/XYSKKRYT) to buy at Aisler
 
 ## Images
 
@@ -23,13 +24,21 @@ To buy this PCB you can either download the gerber files and by where you want o
 ![Back View](IMG/Lo-Fi-Effects_back_view.jpg)
 * this is the first version. But the current gerber files are fixed already.
 
+## Example module from Aliexpress
+- ![Back View](IMG/DSP_Modul.png)
+
+- DSP Digital Reverberation Karaoke Reverb Board KTV Mixer Effector Anti-Whistling Multi-Sound Effects Module Board DIY
+- https://de.aliexpress.com/item/1005006906830757.html
+
 ## Schematic
 
-![Schematic](IMG/LoFi_Effect_Module.pdf)
+[Schematic PNG](IMG/LoFi_Effect_Module.png)
 
-## BOM
+![Schematic PDF](IMG/LoFi_Effect_Module.pdf)
 
-[BOM](BOM/ibom.html)
+## iBOM
+
+[iBOM](BOM/ibom.html)
 
 ## Disclaimer
 
