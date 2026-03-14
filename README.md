@@ -13,7 +13,7 @@ This Project is based on a cheap DSP Multi Effect module
 
 If you'd like to support this project and a European PCB manufacturer, use code **MakeInEurope-ZFYQY** at checkout for **€10** off your first **Aisler** order.
 
-To buy this PCB you can either download the gerber files and by where you want or use this [link](aisler.net/p/XYSKKRYT) to buy at Aisler
+To buy this PCB you can either download the gerber files and by where you want or use this [link](https://aisler.net/p/XYSKKRYT) to buy at Aisler
 
 ## Images
 
