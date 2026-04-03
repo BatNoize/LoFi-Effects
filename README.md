@@ -8,6 +8,7 @@ This Project is based on a cheap DSP Multi Effect module
   - Only one PCB with some SMD components
   - DSP multi effect module see below
 
+- Synthesizer, Synth, Eurorack, Module
 
 ## Discount & Support European PCB Manufacturing
 
